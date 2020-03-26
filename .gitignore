@@ -1,0 +1,40 @@
+# Created by https://www.gitignore.io/api/android
+
+### Android ###
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+/.gradle/
+/.build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log Files
+*.log
+
+# IntelliJ
+*.iml
+.idea/
+
+# Version control
+vcs.xml
+
+/app
+/gradle.properties
+/gradlew
+/gradlew.bat
+/settings.gradle
+/build.gradle

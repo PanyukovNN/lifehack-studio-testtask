@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LifehackTestTask</string>
+    <string name="base_url">http://megakohz.bget.ru/test_task/</string>
+    <string name="text_coordinates_label">Координаты:</string>
+    <string name="text_website_label">Сайт:</string>
+    <string name="text_phone_label">Телефон:</string>
+    <string name="text_description_label">Описание компании:</string>
+    <string name="text_contact_detail_label">Контактные данные</string>
+    <string name="image_content_desc">Логотип</string>
+</resources>
